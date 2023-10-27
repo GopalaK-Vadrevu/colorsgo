@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Random colors:", faker.ColorName())
+	fmt.Println("Random Colors Now:", faker.ColorName())
 }
